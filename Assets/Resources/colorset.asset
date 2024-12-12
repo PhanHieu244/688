@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ada7ee9b9ad9f21213fac143247799e, type: 3}
+  m_Name: "colorset"
+  m_EditorClassIdentifier: 
+  list:
+  - ballId: 0
+    ambientColorSet: {r: 0.7825971, g: 0.4103774, b: 1, a: 1}
+    lightColorSet: {r: 1, g: 0.9568627, b: 0.8392157, a: 1}
+    bg: {fileID: 21300000, guid: 98f3709e5ce045df96e113866f45dc61, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 696ef7d9287448f5b1039a786b17b8ba, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 5b8be033a7824467bf26ff6fee8986f4, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: e9498a48723d4141981e67efe0c725c3, type: 2}
+    - {fileID: 2100000, guid: d097cb7665324a358a8b9acfbcc09742, type: 2}
+    preName: "Partical_hitsimple_style01"
+  - ballId: 1
+    ambientColorSet: {r: 0.7825971, g: 0.4103774, b: 1, a: 1}
+    lightColorSet: {r: 1, g: 0.9568627, b: 0.8392157, a: 1}
+    bg: {fileID: 21300000, guid: 307e071823084d0781f06071800efb77, type: 3}
+    yuanhuan: {fileID: 2100000, guid: b7de90c00a9a4b1dab13ffc97a783035, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 412f4ab397c34cf9a79f2d1f4f5abeea, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 3e2e3012d9c84cc094e8f018e3f771d6, type: 2}
+    - {fileID: 2100000, guid: 0301fa8b9f0746f1aaf62c94d8a0e3b0, type: 2}
+    preName: "Partical_hitsimple_style04"
+  - ballId: 2
+    ambientColorSet: {r: 0.7825971, g: 0.4103774, b: 1, a: 1}
+    lightColorSet: {r: 1, g: 0.9568627, b: 0.8392157, a: 1}
+    bg: {fileID: 21300000, guid: 769bd7867aa14f45adfbd816c45d91f1, type: 3}
+    yuanhuan: {fileID: 2100000, guid: b58d208cb5cd4ac7b9c94d5df490df91, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: d2f1ab582cbc41b7b02c1c3e6af7ed57, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: d59f370bda2d4f03a01c60d76a08e39f, type: 2}
+    - {fileID: 2100000, guid: cab738666fce49efbc400df3e171d849, type: 2}
+    preName: "Partical_hitsimple_style02"
+  - ballId: 3
+    ambientColorSet: {r: 0.2980392, g: 0.4176728, b: 1, a: 1}
+    lightColorSet: {r: 1, g: 0.9568627, b: 0.8392157, a: 1}
+    bg: {fileID: 21300000, guid: cfc7174a5db54d5580badcfb868c8af9, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 22583e34db744bbd8d3f11a89b13d9cc, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: f071b7be35f14b60a9cb42e5c2faf361, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: a79f81de00374540b14c2573a14683e1, type: 2}
+    - {fileID: 2100000, guid: 2db301d53e31415d91112ce8bd9975eb, type: 2}
+    preName: "Partical_hitsimple_style03"
+  - ballId: 4
+    ambientColorSet: {r: 0.7825971, g: 0.4103774, b: 1, a: 1}
+    lightColorSet: {r: 1, g: 0.9568627, b: 0.8392157, a: 1}
+    bg: {fileID: 21300000, guid: 6f445f6a2ae34650a502b3199ff98941, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 0f774972b4da4eaea9414f0e1519b219, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 6f81c43c7c574d46b7e4f7f88d90a4ff, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: eb08b3e350ec42239f41bfd10c3e4df6, type: 2}
+    - {fileID: 2100000, guid: c6059f51e8354818a57d7cac9e822925, type: 2}
+    preName: "Partical_hitsimple_style05"
+  - ballId: 5
+    ambientColorSet: {r: 0.5082325, g: 0.6012937, b: 0.764151, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 2ab3823d7bf04375a58e89a737c5aca9, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 9c6c1f5e1b1243acb74ad9fef53deac1, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: f611169788e14ffe9ef60a0f6e7b2091, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: fcad0de53bcf41ecb6fd8afadda46cce, type: 2}
+    - {fileID: 2100000, guid: 91700118914f4495af8b7f1c428a6ede, type: 2}
+    preName: "Partical_hitsimple_style06"
+  - ballId: 6
+    ambientColorSet: {r: 0.735849, g: 0.4130473, b: 0.5594708, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 265205c03b00490995c4a4caabd02975, type: 3}
+    yuanhuan: {fileID: 2100000, guid: dd2f8a3e4aaf4577bc8c2a13146c7c37, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: c46561b832a245dbb78df36aa30313cd, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 7d2210cceb374c659f2d3934dd8c420a, type: 2}
+    - {fileID: 2100000, guid: 18e19accebc74925be182231548b8b5b, type: 2}
+    preName: "Partical_hitsimple_style15"
+  - ballId: 7
+    ambientColorSet: {r: 0.3294118, g: 0.8196079, b: 0.3343364, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 29a524a49ed7460e9d4d89a8106e0ff0, type: 3}
+    yuanhuan: {fileID: 2100000, guid: b15d08c4f26d446ea01eeb28d08d129a, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 623310ca277d4b57870d261aa160744d, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: aad798f36885421f9b0d04269318dd04, type: 2}
+    - {fileID: 2100000, guid: 747902e3fa004b0d9fba105e2664c2dd, type: 2}
+    preName: "Partical_hitsimple_style18"
+  - ballId: 8
+    ambientColorSet: {r: 0.7280786, g: 0.3213332, b: 0.8207547, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 5fe6cf61ced347318121ddb05ab20550, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 6bb24862eb2a463a82463adc9aeafb73, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 33675b9fb1e64179b0e888c149c1b72c, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: ed77e96976314546aac7888e505f6ddf, type: 2}
+    - {fileID: 2100000, guid: 32c9e02cf6f24bdf97a93fb40dc5ec9e, type: 2}
+    preName: "Partical_hitsimple_style11"
+  - ballId: 9
+    ambientColorSet: {r: 0.8962264, g: 0.3508811, b: 0.4696202, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 4e0decadb5c044db93a512c2ef53b9b9, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 4f3e780747de41b79a05f13f30d85199, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: c035468ad13c488ebafd02a92f0f9530, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 2142332607754bbd892a5a08311fd8ac, type: 2}
+    - {fileID: 2100000, guid: 22b5cffc187f4385915b97aaa33f0077, type: 2}
+    preName: "Partical_hitsimple_style19"
+  - ballId: 10
+    ambientColorSet: {r: 0.2784314, g: 0.342381, b: 0.6509804, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: b4f4150f375d4adaa037c451df64b802, type: 3}
+    yuanhuan: {fileID: 2100000, guid: ca7aadbd29e940c8b576ab0ce36b32ea, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: f701684f3cf0449dadb50434c98d80df, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: ef9eb230bc674841b3b29f4b8dec001c, type: 2}
+    - {fileID: 2100000, guid: ca8a2c2133cb4752bdb98ae20bf7d04e, type: 2}
+    preName: "Partical_hitsimple_style10"
+  - ballId: 11
+    ambientColorSet: {r: 0.6901961, g: 0.4838438, b: 0.4431373, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 01b5cfced9694eda83dae596eca2e9cd, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 41efcd8f56cb4e50a4d0c77ccda0619c, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 3045fd503a9e4223a1e56a319e409b86, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 893f776502814e39a1f92ae814e9873c, type: 2}
+    - {fileID: 2100000, guid: d18223892ee04591a3be1342266eac83, type: 2}
+    preName: "Partical_hitsimple_style08"
+  - ballId: 12
+    ambientColorSet: {r: 0.3290762, g: 0.5156951, b: 0.8207547, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 1cb5ad89b23b4fb9a90d914973c2bb09, type: 3}
+    yuanhuan: {fileID: 2100000, guid: a88e887e1d364272ab3acbc697fb10dc, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 092e7b40d9264f6ab782174c6e7eb431, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 20a003874b944029a6b01f41e08c601b, type: 2}
+    - {fileID: 2100000, guid: 94bdbebaa0e0435ea4bbcc8f30320172, type: 2}
+    preName: "Partical_hitsimple_style16"
+  - ballId: 13
+    ambientColorSet: {r: 0.6320754, g: 0.6061462, b: 0.2593895, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: ab8b11aa21dc4be685781c2b5599c6bc, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 61940b33029446eeafda1f122dc96a1b, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 8f409b906a4e4c75b891d8f4cb7bb544, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 8c3cf82b9bc244a9b40427bdb9b4d048, type: 2}
+    - {fileID: 2100000, guid: c568f0c6ffe34c539fe0f04abdbdd4d1, type: 2}
+    preName: "Partical_hitsimple_style13"
+  - ballId: 14
+    ambientColorSet: {r: 0.2794144, g: 0.3995341, b: 0.6509434, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 5999d050b1a24673b0f9c50f9ede21ba, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 41d314b3c20241758ef1459e4095ab2c, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 6a1ddd3c8d834d5e9b5c551002eb6fb1, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 9a3a53be4da04cdb80fa26248bdc593f, type: 2}
+    - {fileID: 2100000, guid: d70bf617f27642f8a5d5f2a4808d22ea, type: 2}
+    preName: "Partical_hitsimple_style09"
+  - ballId: 15
+    ambientColorSet: {r: 0.3294118, g: 0.8196079, b: 0.3343364, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 8f20954cc60348aebd3c5345aaccfede, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 29e92e3fb4d149d894b25e0f34af849d, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 96a25a8045104330b0ddb99197780e68, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 6605bc4b16384c18b079d26aca02d9e8, type: 2}
+    - {fileID: 2100000, guid: 4c2ef49717554c3dac5041dc4adc35d1, type: 2}
+    preName: "Partical_hitsimple_style17"
+  - ballId: 16
+    ambientColorSet: {r: 0.5658174, g: 0.3490196, b: 0.8980392, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 358c71edb94a443ea9cc21769eb6055f, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 2b19684b350e458794edd8b4c0b2091c, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 1c57eb3105cd4a7ca89af30e9d63b041, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 6664f75101284e5ba92d2af5a8964429, type: 2}
+    - {fileID: 2100000, guid: f934de1ba56e429793468a024b40343a, type: 2}
+    preName: "Partical_hitsimple_style20"
+  - ballId: 17
+    ambientColorSet: {r: 0.3215687, g: 0.3968213, b: 0.8196079, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 4750068fb9ca44808d225b5548f5a48c, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 3d8aca4d58a54e2ba5c3641063fb2c2d, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 3ba4f3303ee146d3af1cc637ab500514, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: b7e65a11d83c487298a3d1371cefd2b7, type: 2}
+    - {fileID: 2100000, guid: 005f83c8ca7b4ee6aa91ebbdf1e77612, type: 2}
+    preName: "Partical_hitsimple_style12"
+  - ballId: 18
+    ambientColorSet: {r: 0.4450427, g: 0.6410856, b: 0.6886792, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: 0b73819f0ae24a3eaf42362e087ba1eb, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 8c3cf82b9bc244a9b40427bdb9b4d048, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: 6d23bd7fe25b4e148178f71ac65e0550, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 36b6c58285044c5080106c8b422a2b54, type: 2}
+    - {fileID: 2100000, guid: 26b7e6abd3bc451ba3761651505e1f96, type: 2}
+    preName: 
+  - ballId: 19
+    ambientColorSet: {r: 0.6981132, g: 0.6887542, b: 0.5499288, a: 1}
+    lightColorSet: {r: 1, g: 1, b: 1, a: 1}
+    bg: {fileID: 21300000, guid: ba90e461bd544162af5856499bee77a6, type: 3}
+    yuanhuan: {fileID: 2100000, guid: 298b0d5b490441d59901cd4a29483baf, type: 2}
+    toumingyuanhuan: {fileID: 2100000, guid: fbbb22e76e5f49c9a10fb869d994f32e, type: 2}
+    dibuyuanhuan:
+    - {fileID: 2100000, guid: 6d23bd7fe25b4e148178f71ac65e0550, type: 2}
+    - {fileID: 2100000, guid: 8678ba58bdcd4ac280fbd9742c311956, type: 2}
+    preName: "Partical_hitsimple_style14"

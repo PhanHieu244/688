@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af0f46076eccaeb18d82f7e3315a347f, type: 3}
+  m_Name: "pool"
+  m_EditorClassIdentifier: 
+  PoolList:
+  - Name: "Coins"
+    Prefab: {fileID: 1789946916949264487, guid: 1eea9e6823ec4b559211d498bccf5c0e, type: 2}
+    MaxCount: 20
+  - Name: "Message"
+    Prefab: {fileID: 1789946916949264487, guid: 412b95439ac54ab298b2bf33d383553d, type: 2}
+    MaxCount: 10
+  - Name: "Score"
+    Prefab: {fileID: 1789946916949264487, guid: 85eed183f5e94aaca0c471eb07e07e05, type: 2}
+    MaxCount: 10
+  - Name: "Huan"
+    Prefab: {fileID: 1789946916949264487, guid: 29ac07b5c72b45f396b724c71df3fe3c, type: 2}
+    MaxCount: 5
+  - Name: "Partical_hitextrm"
+    Prefab: {fileID: 1789946916949264487, guid: 72a59ed0698c443f9647f7e33c088a5a, type: 2}
+    MaxCount: 10
+  - Name: "Partical_Ring"
+    Prefab: {fileID: 1789946916949264487, guid: 7d7e972df6f2431192dac4b8555d9351, type: 2}
+    MaxCount: 10
+  - Name: "Ball0"
+    Prefab: {fileID: 1789946916949264487, guid: 844492e52fba45a1bcb7386b0a0e567b, type: 2}
+    MaxCount: 30
+  - Name: "Ball1"
+    Prefab: {fileID: 1789946916949264489, guid: 79d700b1967940cda714dd01fd8077e1, type: 2}
+    MaxCount: 30
+  - Name: "Ball2"
+    Prefab: {fileID: 1789946916949264487, guid: d0aad661b14a487bb058dad2b6a789f7, type: 2}
+    MaxCount: 30
+  - Name: "Ball3"
+    Prefab: {fileID: 1789946916949264488, guid: f2ecb41eae1c47a3a8cb5bc57b19726d, type: 2}
+    MaxCount: 30
+  - Name: "Ball4"
+    Prefab: {fileID: 1789946916949264488, guid: 631fdfbdf9fb42e58d184db1216c8ff8, type: 2}
+    MaxCount: 30
+  - Name: "Ball5"
+    Prefab: {fileID: 1789946916949264487, guid: 4cc80cff75764935844e40272a91264b, type: 2}
+    MaxCount: 30
+  - Name: "Ball6"
+    Prefab: {fileID: 1789946916949264487, guid: 9a8a4e5c1be042108ab0269eb6f40835, type: 2}
+    MaxCount: 30
+  - Name: "Ball7"
+    Prefab: {fileID: 1789946916949264487, guid: 236002dbd88844c19925cd4039fd168b, type: 2}
+    MaxCount: 30
+  - Name: "Ball8"
+    Prefab: {fileID: 1789946916949264487, guid: 97274fc118d14a2cb57bf8c5fee7ca68, type: 2}
+    MaxCount: 30
+  - Name: "Ball9"
+    Prefab: {fileID: 1789946916949264489, guid: 770d66a75da1428aa85f44f90d3187e8, type: 2}
+    MaxCount: 30
+  - Name: "Ball10"
+    Prefab: {fileID: 1789946916949264489, guid: 9cbe53aeb88f4db98f3b059ab53c729a, type: 2}
+    MaxCount: 30
+  - Name: "Ball11"
+    Prefab: {fileID: 1789946916949264489, guid: f84557c1a49d4a92a40d1bd3c28a0da8, type: 2}
+    MaxCount: 30
+  - Name: "Ball12"
+    Prefab: {fileID: 1789946916949264488, guid: 10d63fe855fc4b8d82ee0ccbbaff7f89, type: 2}
+    MaxCount: 30
+  - Name: "Ball13"
+    Prefab: {fileID: 1789946916949264487, guid: 66256462b16e438996cf324f13fe81d7, type: 2}
+    MaxCount: 30
+  - Name: "Ball14"
+    Prefab: {fileID: 1789946916949264489, guid: 94fa1d83edd64fbb8f76ad4e6425998e, type: 2}
+    MaxCount: 30
+  - Name: "Ball15"
+    Prefab: {fileID: 1789946916949264487, guid: 1a07ddba5a6646d0aebae6e5dcd38bca, type: 2}
+    MaxCount: 30
+  - Name: "Ball16"
+    Prefab: {fileID: 1789946916949264487, guid: 086e1473f5c040a48b5d1a3275e4bb2e, type: 2}
+    MaxCount: 30
+  - Name: "Ball17"
+    Prefab: {fileID: 1789946916949264487, guid: c973068c4a9e46a3836b4969912e5ea0, type: 2}
+    MaxCount: 30
+  - Name: "Ball18"
+    Prefab: {fileID: 1789946916949264489, guid: 764fe96a9189402cb48df0064f6775bf, type: 2}
+    MaxCount: 30
+  - Name: "Ball19"
+    Prefab: {fileID: 1789946916949264487, guid: c700e22b5c54423cb01087fa2b6a0d3f, type: 2}
+    MaxCount: 30
+  - Name: "Particle_coin"
+    Prefab: {fileID: 1789946916949264487, guid: f4ce7659ca2448a09aaf910729c72b8b, type: 2}
+    MaxCount: 20
+  - Name: "Partical_hitsimple_style01"
+    Prefab: {fileID: 1789946916949264489, guid: 405613eb200b42899e3e1bc7a1575d64, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style02"
+    Prefab: {fileID: 1789946916949264488, guid: f2a16abba3e34567895be8f20d6be0ba, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style03"
+    Prefab: {fileID: 1789946916949264488, guid: 3946238e09324c659dc8db40270c9cd7, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style04"
+    Prefab: {fileID: 1789946916949264488, guid: e03a01554a454df295acc4fdfaaa7acf, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style05"
+    Prefab: {fileID: 1789946916949264487, guid: 61ba27bb94424329a1491e54046b8c1f, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style06"
+    Prefab: {fileID: 1789946916949264488, guid: 7dac6a218043463c834a245469c2c0e4, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style07"
+    Prefab: {fileID: 1789946916949264487, guid: a0073ff707ff4e8db8dc3a2a54995664, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style08"
+    Prefab: {fileID: 1789946916949264487, guid: 363195a7b8354fafb901e3b09ebb2fd5, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style09"
+    Prefab: {fileID: 1789946916949264489, guid: a4c31838ce8d46018b60ad2b810ec3cc, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style10"
+    Prefab: {fileID: 1789946916949264487, guid: be7a71e1b6b84918ae60759886971c7a, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style11"
+    Prefab: {fileID: 1789946916949264489, guid: d2fc063875904ec1a02b50336513660a, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style12"
+    Prefab: {fileID: 1789946916949264488, guid: d4515caebe134a2d90baffdf39bf4b30, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style13"
+    Prefab: {fileID: 1789946916949264488, guid: 2ef9931ef9924dab8459742aef3d3d62, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style14"
+    Prefab: {fileID: 1789946916949264489, guid: a5aee8880d3c4ae1bb236ea3bdf675d5, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style15"
+    Prefab: {fileID: 1789946916949264487, guid: 453170a5c6744e64a7a6d38d80f2a4f0, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style16"
+    Prefab: {fileID: 1789946916949264489, guid: a4f8bd5326b74a588c3840968a69df16, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style17"
+    Prefab: {fileID: 1789946916949264488, guid: 6bdaf044a78c48ffae39f0164d218ef2, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style18"
+    Prefab: {fileID: 1789946916949264487, guid: 5738a4e16a9b403a9a074a5bafbea95d, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style19"
+    Prefab: {fileID: 1789946916949264489, guid: ce1cf2017fe94460b20db3a1f38be413, type: 2}
+    MaxCount: 10
+  - Name: "Partical_hitsimple_style20"
+    Prefab: {fileID: 1789946916949264487, guid: 2a9d55217aa14bd1af6a2a319d2a5d75, type: 2}
+    MaxCount: 10
+  - Name: "Particle_suo"
+    Prefab: {fileID: 1789946916949264487, guid: c8dbc155c4cf45e8be2e383447a65254, type: 2}
+    MaxCount: 10
